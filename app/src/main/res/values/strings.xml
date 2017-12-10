@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QiscusInterview</string>
+    <string name="add_product">Add Product</string>
+    <string name="name">Product Name</string>
+    <string name="price">Product Price</string>
+</resources>
